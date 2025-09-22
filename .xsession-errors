@@ -1,0 +1,698 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/50x11-common_determine-startup: line 10: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/kali/.dotnet/tools
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 23:21:05.905: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 23:21:05.906: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 23:21:05.906: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 23:21:05.907: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 23:21:06.094: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 23:21:06.995: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:1236): xfwm4-WARNING **: 23:21:08.751: Another compositing manager is running on screen 0
+** Message: 23:21:10.435: Unable to migrate old setting /backdrop/screen0/monitor2/image-show; monitor 2 is not currently attached
+** Message: 23:21:10.435: Unable to migrate old setting /backdrop/screen0/monitor4/image-path; monitor 4 is not currently attached
+** Message: 23:21:10.441: Unable to migrate old setting /backdrop/screen0/monitor3/image-show; monitor 3 is not currently attached
+** Message: 23:21:10.442: Unable to migrate old setting /backdrop/screen0/monitor1/last-single-image; monitor 1 is not currently attached
+** Message: 23:21:10.443: Unable to migrate /backdrop/screen0/monitor0/color2 to RGBA as it contains invalid data
+** Message: 23:21:10.447: Unable to migrate old setting /backdrop/screen0/monitor1/color2; monitor 1 is not currently attached
+** Message: 23:21:10.449: Unable to migrate old setting /backdrop/screen0/monitor1/brightness; monitor 1 is not currently attached
+** Message: 23:21:10.454: Unable to migrate old setting /backdrop/screen0/monitor4/image-style; monitor 4 is not currently attached
+** Message: 23:21:10.455: Unable to migrate old setting /backdrop/screen0/monitor3/image-style; monitor 3 is not currently attached
+** Message: 23:21:10.457: Unable to migrate old setting /backdrop/screen0/monitor4/image-show; monitor 4 is not currently attached
+** Message: 23:21:10.459: Unable to migrate old setting /backdrop/screen0/monitor2/image-style; monitor 2 is not currently attached
+** Message: 23:21:10.465: Unable to migrate /backdrop/screen0/monitor0/color1 to RGBA as it contains invalid data
+** Message: 23:21:10.485: Unable to migrate old setting /backdrop/screen0/monitor1/last-image; monitor 1 is not currently attached
+** Message: 23:21:10.489: Unable to migrate old setting /backdrop/screen0/monitor1/image-path; monitor 1 is not currently attached
+** Message: 23:21:10.502: Unable to migrate old setting /backdrop/screen0/monitor2/image-path; monitor 2 is not currently attached
+** Message: 23:21:10.505: Unable to migrate old setting /backdrop/screen0/monitor1/image-style; monitor 1 is not currently attached
+** Message: 23:21:10.509: Unable to migrate old setting /backdrop/screen0/monitor3/image-path; monitor 3 is not currently attached
+** Message: 23:21:10.511: Unable to migrate old setting /backdrop/screen0/monitor1/color1; monitor 1 is not currently attached
+** Message: 23:21:10.522: Unable to migrate old setting /backdrop/screen0/monitor1/color-style; monitor 1 is not currently attached
+** Message: 23:21:10.523: Unable to migrate old setting /backdrop/screen0/monitor1/image-show; monitor 1 is not currently attached
+/usr/bin/pkcs11-register: option '--skip-chrome' doesn't allow an argument
+
+(polkit-mate-authentication-agent-1:1302): GLib-CRITICAL **: 23:21:10.822: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1302): polkit-mate-1-WARNING **: 23:21:10.827: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Failure: No such entity
+
+(wrapper-2.0:1440): xfce4-power-manager-plugin-WARNING **: 23:21:15.133: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+blueman-applet 23.21.15 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 23.21.15 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 23.21.15 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+
+(xfce4-screensaver:1310): GLib-GObject-CRITICAL **: 02:52:20.776: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:19.800: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:19.813: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.158: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.159: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.159: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.159: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.169: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.170: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.170: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.170: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.178: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.178: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.178: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.178: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.190: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.190: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.191: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.191: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.213: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.213: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.213: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.213: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.271: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.271: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.271: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.271: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.282: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.282: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.282: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.282: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.292: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.293: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.293: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.293: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.298: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.298: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.298: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.298: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.304: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.304: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.304: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.304: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.317: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.317: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.317: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.317: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.349: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.349: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.349: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.349: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.351: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.351: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.351: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.351: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.354: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.354: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.354: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.354: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.356: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.357: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.357: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.357: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.361: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.361: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.361: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.361: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.364: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.364: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.364: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.364: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.367: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.367: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.367: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.367: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.373: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.374: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.374: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.374: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.381: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.381: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.381: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.381: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.388: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.388: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.388: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.388: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.394: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.395: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.395: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.395: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.401: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.401: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.401: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.401: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.408: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.408: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.408: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.408: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.414: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.414: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.414: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.414: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.420: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.420: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.420: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.420: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.426: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.426: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.426: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.426: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.432: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.432: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.432: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.432: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.437: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.437: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.438: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.438: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.446: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.446: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.446: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.446: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.461: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.461: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.461: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.461: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.471: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.471: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.471: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.471: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.475: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.475: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.476: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.476: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.492: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): Gtk-CRITICAL **: 02:58:20.492: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.492: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.492: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.496: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.496: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.498: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.498: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.502: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.502: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.505: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.505: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.509: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.509: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.512: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.512: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.518: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.518: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.523: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.523: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.528: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.528: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.535: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.535: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.547: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.547: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.557: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.557: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.569: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.569: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.577: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.579: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.596: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.596: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.612: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.612: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.620: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.620: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.643: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.643: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.656: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.656: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.667: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.667: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.680: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.680: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.687: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.687: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.693: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.693: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.701: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.701: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.710: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.710: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.715: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.715: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.722: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.722: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.728: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.729: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.741: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.741: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.746: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.746: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.749: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.749: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.753: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.753: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.756: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.756: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.760: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.760: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.768: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.768: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.779: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.779: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.783: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.784: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.794: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.795: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.802: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.802: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.808: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.808: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.814: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.814: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.821: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.821: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.827: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.827: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.833: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.833: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.851: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.851: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.864: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.864: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.874: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.874: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.880: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.881: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.885: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.885: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.889: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.889: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.893: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.894: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.898: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.898: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.902: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.902: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.906: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.906: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.910: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.910: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.914: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.914: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.918: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.918: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.921: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.921: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.925: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.925: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.928: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.929: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.932: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.932: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.936: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.936: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.940: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.940: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.944: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.944: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.948: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.948: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.952: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.952: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.956: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1440): GLib-CRITICAL **: 02:58:20.956: g_strrstr: assertion 'haystack != NULL' failed
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usbhid".
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::CheckBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::RadioButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::HeaderPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ItemViewPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MessageBoxLabelPelette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TabBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::LabelPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::GroupBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextLineEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+
+(xfce4-screensaver:1310): GLib-GObject-CRITICAL **: 02:32:08.610: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::CheckBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::RadioButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::HeaderPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ItemViewPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MessageBoxLabelPelette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TabBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::LabelPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::GroupBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextLineEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::CheckBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::RadioButtonPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::HeaderPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ItemViewPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MessageBoxLabelPelette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TabBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::LabelPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::GroupBoxPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::MenuBarPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::TextLineEditPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual QVariant Qt6CTPlatformTheme::themeHint(QPlatformTheme::ThemeHint) const
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::SystemPalette
+virtual const QPalette* Qt6CTPlatformTheme::palette(QPlatformTheme::Palette) const QPlatformTheme::ToolTipPalette
