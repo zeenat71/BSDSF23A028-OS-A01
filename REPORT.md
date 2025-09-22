@@ -1,18 +1,22 @@
-# Feature-2: Multi-file Project - Report
+## Report – Static Library Build (Feature-3)
 
-## 1. Linking rule in Makefile: $(TARGET): $(OBJECTS)
-$(TARGET) is the final executable (e.g., client).
-$(OBJECTS) are all object files (.o) compiled from source.
-This rule tells Make: "To build $(TARGET), first make sure $(OBJECTS) exist, then link them."
-Difference from library linking: When linking against a library (e.g., libmylib.a), the library is included in the link command. Here, only object files are linked directly.
+### 1. Makefile Differences (Part 2 vs Part 3)
+- **Variables:**  
+  - Part 2 (multifile build) me `SRC` directly saare .c files include the.  
+  - Part 3 me humne `LIBSRC` (ya similar) rakha jo sirf utility .c files ke liye hai, aur unka output `.o` files me compile karke `lib/libmyutils.a` banaya.
+- **Rules:**  
+  - Multifile me final target directly `gcc` se sab .c ko link karta tha.  
+  - Static build me naya rule hai `ar rcs lib/libmyutils.a $(OBJ)` jo object files ko archive karta hai.  
+  - Client build rule me `-Llib -lmyutils` add hua jo static library se link karta hai.
 
-## 2. Git Tag
-A git tag marks a specific commit in the repo, usually for versioning.
-- **Why useful:** Easily reference stable versions or releases.
-- **Simple tag:** Marks commit only (git tag v1.0)
-- **Annotated tag:** Marks commit + stores tagger info, date, and message (git tag -a v1.0 -m "Release 1.0")
+### 2. Purpose of `ar` and `ranlib`
+- **ar**: “archiver” utility jo multiple object files ko ek hi `.a` static library me bundle karta hai.  
+- **ranlib**: library ke symbol index ko update karta hai taa-ke linker ko functions jaldi mil saken.
 
-## 3. Purpose of creating a Release on GitHub
-- Share a stable version of the project publicly.
-- Users can directly download binaries without compiling source code.
-- **Attaching binaries:** Users get ready-to-run programs (e.g., client.zip), no compilation needed.
+### 3. `nm` on client_static
+- `nm bin/client_static` chalane par `mystrlen`, `mystrcpy` jaise symbols dikhenge.  
+- Ye batata hai ke **static linking** me object code final executable ke andar copy ho jata hai, isliye functions ke symbols executable me maujood rehte hain.
+
+---
+*Prepared by: Zeenat Fatima*  
+*Version: v0.2.1-static*
